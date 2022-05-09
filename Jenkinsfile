@@ -4,7 +4,7 @@ pipeline {
   stages {
     stage("build") {
       steps {
-        echo 'build my main branch'
+        echo 'build my DEV branch'
       }
     }
   }
